@@ -1,0 +1,33 @@
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/BasicBackground/BasicBackground.css');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;500;700&display=swap');
+
+:root {
+  --background: url('https://raw.githubusercontent.com/CatOfPower/She-Ra-Theme-Discord/refs/heads/main/WhisperingWoods.jpg');
+  --backgroundsize: cover;
+  --backgroundposition: center;
+  --backgroundblur: 10px;
+  --popout: var(--background);
+  --popoutsize: var(--backgroundsize);
+  --backgroundposition: center;
+  --popoutblur: 0px;
+  --transparencycolor: 0,0,0;
+  --accentcolor: 242,189,89;
+  --backdrop: rgba(0,0,0,0.85);
+  --textshadow: transparent;
+  --transparencyalpha: 0.68;
+  --messagetransparency: 0.5;
+  --guildchanneltransparency: 0.15;
+  --chatinputtransparency: 0;
+  --memberlisttransparency: 0;
+  --font: 'Roboto Mono', Mono, monospace;
+  --textbrightest: 255,255,255;
+  --textbrighter: 222,222,222;
+  --textbright: 200,200,200;
+  --textdark: 160,160,160;
+  --textdarker: 125,125,125;
+  --textdarkest: 90,90,90;
+  --settingsicons: 1;
+  --backdropsize: var(--background-size);
+  --backdropblur: 0px;
+  --version1_0_5: none;
+}
