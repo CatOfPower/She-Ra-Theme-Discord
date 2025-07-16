@@ -1,0 +1,1 @@
+To install go to `Settings > Themes > Online Themes` and paste [https://raw.githubusercontent.com/CatOfPower/She-Ra-Theme-Discord/refs/heads/main/theme.css](https://raw.githubusercontent.com/CatOfPower/She-Ra-Theme-Discord/refs/heads/main/theme.css)
